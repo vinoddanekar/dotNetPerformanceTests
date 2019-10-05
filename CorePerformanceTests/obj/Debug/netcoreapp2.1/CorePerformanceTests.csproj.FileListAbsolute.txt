@@ -1,0 +1,15 @@
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\CorePerformanceTests.deps.json
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\CorePerformanceTests.runtimeconfig.json
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\CorePerformanceTests.runtimeconfig.dev.json
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\CorePerformanceTests.dll
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\bin\Debug\netcoreapp2.1\CorePerformanceTests.pdb
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\obj\Debug\netcoreapp2.1\CorePerformanceTests.csprojAssemblyReference.cache
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\obj\Debug\netcoreapp2.1\CorePerformanceTests.csproj.CoreCompileInputs.cache
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\obj\Debug\netcoreapp2.1\CorePerformanceTests.AssemblyInfoInputs.cache
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\obj\Debug\netcoreapp2.1\CorePerformanceTests.AssemblyInfo.cs
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\obj\Debug\netcoreapp2.1\CorePerformanceTests.dll
+C:\Users\Vinod\source\repos\PerformanceTests\CorePerformanceTests\obj\Debug\netcoreapp2.1\CorePerformanceTests.pdb
