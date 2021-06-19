@@ -7,7 +7,7 @@ namespace Tests
     [TestClass]
     public class DataTimeTests
     {
-        private const long dateRangeIterations = 1000000;
+        private const long dateRangeIterations = 0b1_000_000;
         public DataTimeTests()
         {
 

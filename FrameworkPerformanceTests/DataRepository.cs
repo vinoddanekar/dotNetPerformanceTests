@@ -7,7 +7,7 @@ namespace Tests
         public enum Size
         {
             Small = 1000,
-            Huge = 10000000
+            Huge = 0b10_000_000
         }
 
         private Size dataSize;
